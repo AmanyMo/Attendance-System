@@ -1,0 +1,61 @@
+﻿@model  List <Department>
+@{ 
+    ViewBag.Title = "listDepartments";
+}
+
+<h2>Select a Department</h2>
+
+
+
+@*@Html.DropDownList("departments", ViewBag.departments as SelectList, "Select a department...")*@
+<form method="post" >
+    <select id="id" name="id"  >
+        @foreach (var item in Model)
+        {
+            <option value="@item.department_id">@item.department_Name</option>
+        }
+
+    </select>
+    <br/>
+    <input type="submit" value="students"/>
+</form>
+
+  
+
+
+   
+  
+
+
+
+
+
+
+<div id="div1">
+    @{ 
+
+    }
+   
+</div>
+
+
+
+            @*@Html.Partial("GetStudentsInDep")*@
+ 
+
+
+
+@section scripts{ 
+    <script>
+       
+        
+            //Html.Partial("GetStudentsInDep", "Dep_id")
+            var Dep_id = $("#departments").val();
+            $("#div1").load("GetStudentsInDep/"+id);
+
+         @*var Dep_id = $("#departments").val();
+$("#div1").load("@(Url.Action("GetStudentsInDep", "DepStu", new { id = 1 }))");*@
+
+        })
+    </script>
+}

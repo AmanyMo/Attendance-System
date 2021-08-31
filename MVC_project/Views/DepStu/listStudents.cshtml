@@ -1,0 +1,23 @@
+﻿
+@{
+    ViewBag.Title = "Students";
+}
+
+<h2>listStudents</h2>
+
+@*@Html.DropDownList("students", ViewBag.students as SelectList, "Students List")*@
+<form method="post" action="/DepStu/AddToAttendance">
+    <select id="id" name="id">
+        @foreach (var item in ViewBag.attendance_list)
+        {
+            <option value="@item.Id">@item.UserName</option>
+        }
+
+    </select>
+    <br/>
+    <input type="submit" value="Mark" />
+    <br/>
+    <a href="/DepStu/listDepartments">Back to Departments</a>
+</form>
+
+

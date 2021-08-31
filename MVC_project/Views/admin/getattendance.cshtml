@@ -1,0 +1,12 @@
+﻿
+@{
+    ViewBag.Title = "getattendance";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<form method="post" action="~/admin/postattendance">
+    @Html.DropDownList("departments", @ViewBag.departments as SelectList);
+    <input type="date" name="date" />
+<input type="submit" />
+</form>
+

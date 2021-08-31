@@ -1,0 +1,24 @@
+﻿@model IEnumerable<Attendance>
+@{
+    ViewBag.Title = "postinterval";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@foreach (var c in Model)
+{
+<div>UserName  @c.ApplicationUser.UserName</div>
+    <div> abscents @c.abscents</div>
+    <div>delay @c.delay</div>
+    <div>attends @c.attends</div>
+    <div>intime  @c.intime</div>
+
+}
+@foreach (var c in ViewBag.absentstudents)
+{
+    <div>UserName   @c.UserName</div>
+    <div>abscents  @c.abscents</div>
+
+
+}
+
+

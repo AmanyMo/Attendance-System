@@ -1,0 +1,45 @@
+﻿@using MVC_project.Models;
+@model IEnumerable<Attendance>
+
+
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>ApplicationUser</h4>
+    <hr />
+   <table>
+       <thead>
+           <tr>
+               <td>attend_date</td>
+               <td>attend_time</td>
+               <td>Exit_time</td>
+               <td>UserName</td>
+           </tr>
+       </thead>
+       <tbody>
+           @foreach(var x in Model)
+           {
+           <tr>
+               <td>@x.attend_date.ToString("yyyy-MM-dd")</td>
+               <td>@x.attend_time</td>
+               <td>@x.Exit_time</td>
+               <td>@x.ApplicationUser.UserName</td>
+
+           </tr>
+
+           }
+       </tbody>
+
+   </table>
+        
+</div>
+<p>
+     
+    @Html.ActionLink("Back to List", "Index")
+</p>

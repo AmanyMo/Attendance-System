@@ -1,0 +1,40 @@
+﻿
+@{
+    ViewBag.Title = "Exitlist";
+}
+
+<h2>Leave list</h2>
+
+
+    
+    
+
+<form method="post" action="/DepStu/UpdateExitTime">
+    <select id="id" name="id">
+       @if (ViewBag.Exit_list.Count == 0)
+       {
+        <option value="0">No Student to show</option>
+       }
+       else
+       {
+        foreach (var item in ViewBag.Exit_list)
+        {
+
+
+            <option value="@item.Id">@item.UserName</option>
+       }
+
+        }
+       
+        
+
+    </select>
+    <br />
+    <input type="submit" value="Mark as left" />
+    <br />
+    <a href="/DepStu/listDepartments">Back to Attendance</a>
+</form>
+
+
+
+

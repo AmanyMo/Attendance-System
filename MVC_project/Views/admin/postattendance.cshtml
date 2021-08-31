@@ -1,0 +1,37 @@
+﻿@model IEnumerable<Attendance>
+@{
+    ViewBag.Title = "postattendance";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@foreach (var x in Model)
+{
+    <div>@x.ApplicationUser.UserName</div>
+    <div>@x.attend_date.ToString("yyyy-MM-dd")</div>
+    <div>@x.attend_time</div>
+    if(DateTime.Parse(@x.attend_time) > DateTime.Parse("18:01"))
+    {
+        <div>late</div>
+    }
+    else
+    {
+        <div>in time</div>
+
+    }
+    if (DateTime.Parse(@x.attend_time) ==null)
+    {
+        <div>absent</div>
+    }
+    <div>@x.Exit_time</div>
+
+
+}
+<div>the absents</div>
+@foreach(var x in ViewBag.abs)
+{
+    <div>
+        @x.UserName
+
+    </div>
+}
+

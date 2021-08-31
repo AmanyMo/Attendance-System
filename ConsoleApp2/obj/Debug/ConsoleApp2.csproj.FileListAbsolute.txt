@@ -1,0 +1,6 @@
+E:\ITI COURSES\حقختثؤف ةرؤ\سشفعقيشغ\MVC_project\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+E:\ITI COURSES\حقختثؤف ةرؤ\سشفعقيشغ\MVC_project\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+E:\ITI COURSES\حقختثؤف ةرؤ\سشفعقيشغ\MVC_project\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+E:\ITI COURSES\حقختثؤف ةرؤ\سشفعقيشغ\MVC_project\ConsoleApp2\obj\Debug\ConsoleApp2.csprojAssemblyReference.cache
+E:\ITI COURSES\حقختثؤف ةرؤ\سشفعقيشغ\MVC_project\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+E:\ITI COURSES\حقختثؤف ةرؤ\سشفعقيشغ\MVC_project\ConsoleApp2\obj\Debug\ConsoleApp2.pdb

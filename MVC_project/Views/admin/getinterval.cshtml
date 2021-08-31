@@ -1,0 +1,13 @@
+﻿
+@{
+    ViewBag.Title = "getinterval";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<form action="~/admin/postinterval" method="post">
+    <input type="date" name="startdate" />
+    <input type="date" name="enddate" />
+    @Html.DropDownList("departments",@ViewBag.departments as SelectList)
+    <input type="submit" />
+</form>
+

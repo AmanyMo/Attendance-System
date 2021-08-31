@@ -1,0 +1,510 @@
+c:\users\lenovo\documents\visual studio 2017\Projects\MVC_project\MVC_project\bin\ApplicationInsights.config
+c:\users\lenovo\documents\visual studio 2017\Projects\MVC_project\MVC_project\bin\roslyn\csc.exe
+c:\users\lenovo\documents\visual studio 2017\Projects\MVC_project\MVC_project\bin\roslyn\csc.exe.config
+c:\users\lenovo\documents\visual studio 2017\Projects\MVC_project\MVC_project\bin\roslyn\csc.rsp
+c:\users\lenovo\documents\visual studio 2017\Projects\MVC_project\MVC_project\bin\roslyn\csi.exe
+c:\users\lenovo\documents\visual studio 2017\Projects\MVC_project\MVC_project\bin\roslyn\csi.rsp
+c:\users\lenovo\documents\visual studio 2017\Projects\MVC_project\MVC_project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\lenovo\documents\visual studio 2017\Projects\MVC_project\MVC_project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\lenovo\documents\visual studio 2017\Projects\MVC_project\MVC_project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\lenovo\documents\visual studio 2017\Projects\MVC_project\MVC_project\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\lenovo\documents\visual studio 2017\Projects\MVC_project\MVC_project\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\lenovo\documents\visual studio 2017\Projects\MVC_project\MVC_project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\lenovo\documents\visual studio 2017\Projects\MVC_project\MVC_project\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\lenovo\documents\visual studio 2017\Projects\MVC_project\MVC_project\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\lenovo\documents\visual studio 2017\Projects\MVC_project\MVC_project\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\lenovo\documents\visual studio 2017\Projects\MVC_project\MVC_project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\lenovo\documents\visual studio 2017\Projects\MVC_project\MVC_project\bin\roslyn\System.AppContext.dll
+c:\users\lenovo\documents\visual studio 2017\Projects\MVC_project\MVC_project\bin\roslyn\System.Collections.Immutable.dll
+c:\users\lenovo\documents\visual studio 2017\Projects\MVC_project\MVC_project\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\lenovo\documents\visual studio 2017\Projects\MVC_project\MVC_project\bin\roslyn\System.IO.FileSystem.dll
+c:\users\lenovo\documents\visual studio 2017\Projects\MVC_project\MVC_project\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\lenovo\documents\visual studio 2017\Projects\MVC_project\MVC_project\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\lenovo\documents\visual studio 2017\Projects\MVC_project\MVC_project\bin\roslyn\vbc.exe
+c:\users\lenovo\documents\visual studio 2017\Projects\MVC_project\MVC_project\bin\roslyn\vbc.exe.config
+c:\users\lenovo\documents\visual studio 2017\Projects\MVC_project\MVC_project\bin\roslyn\vbc.rsp
+c:\users\lenovo\documents\visual studio 2017\Projects\MVC_project\MVC_project\bin\roslyn\VBCSCompiler.exe
+c:\users\lenovo\documents\visual studio 2017\Projects\MVC_project\MVC_project\bin\roslyn\VBCSCompiler.exe.config
+c:\users\lenovo\documents\visual studio 2017\Projects\MVC_project\MVC_project\bin\MVC_project.dll.config
+c:\users\lenovo\documents\visual studio 2017\Projects\MVC_project\MVC_project\bin\MVC_project.dll
+c:\users\lenovo\documents\visual studio 2017\Projects\MVC_project\MVC_project\bin\MVC_project.pdb
+c:\users\lenovo\documents\visual studio 2017\Projects\MVC_project\MVC_project\bin\Antlr3.Runtime.dll
+c:\users\lenovo\documents\visual studio 2017\Projects\MVC_project\MVC_project\bin\EntityFramework.dll
+c:\users\lenovo\documents\visual studio 2017\Projects\MVC_project\MVC_project\bin\EntityFramework.SqlServer.dll
+c:\users\lenovo\documents\visual studio 2017\Projects\MVC_project\MVC_project\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\lenovo\documents\visual studio 2017\Projects\MVC_project\MVC_project\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\lenovo\documents\visual studio 2017\Projects\MVC_project\MVC_project\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\lenovo\documents\visual studio 2017\Projects\MVC_project\MVC_project\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\lenovo\documents\visual studio 2017\Projects\MVC_project\MVC_project\bin\Microsoft.AI.Web.dll
+c:\users\lenovo\documents\visual studio 2017\Projects\MVC_project\MVC_project\bin\Microsoft.AI.WindowsServer.dll
+c:\users\lenovo\documents\visual studio 2017\Projects\MVC_project\MVC_project\bin\Microsoft.ApplicationInsights.dll
+c:\users\lenovo\documents\visual studio 2017\Projects\MVC_project\MVC_project\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\lenovo\documents\visual studio 2017\Projects\MVC_project\MVC_project\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\lenovo\documents\visual studio 2017\Projects\MVC_project\MVC_project\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\lenovo\documents\visual studio 2017\Projects\MVC_project\MVC_project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\lenovo\documents\visual studio 2017\Projects\MVC_project\MVC_project\bin\Microsoft.Owin.dll
+c:\users\lenovo\documents\visual studio 2017\Projects\MVC_project\MVC_project\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\lenovo\documents\visual studio 2017\Projects\MVC_project\MVC_project\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\lenovo\documents\visual studio 2017\Projects\MVC_project\MVC_project\bin\Microsoft.Owin.Security.dll
+c:\users\lenovo\documents\visual studio 2017\Projects\MVC_project\MVC_project\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\lenovo\documents\visual studio 2017\Projects\MVC_project\MVC_project\bin\Microsoft.Owin.Security.Google.dll
+c:\users\lenovo\documents\visual studio 2017\Projects\MVC_project\MVC_project\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\lenovo\documents\visual studio 2017\Projects\MVC_project\MVC_project\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\lenovo\documents\visual studio 2017\Projects\MVC_project\MVC_project\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\lenovo\documents\visual studio 2017\Projects\MVC_project\MVC_project\bin\Microsoft.Web.Infrastructure.dll
+c:\users\lenovo\documents\visual studio 2017\Projects\MVC_project\MVC_project\bin\Newtonsoft.Json.dll
+c:\users\lenovo\documents\visual studio 2017\Projects\MVC_project\MVC_project\bin\Owin.dll
+c:\users\lenovo\documents\visual studio 2017\Projects\MVC_project\MVC_project\bin\System.Web.Helpers.dll
+c:\users\lenovo\documents\visual studio 2017\Projects\MVC_project\MVC_project\bin\System.Web.Mvc.dll
+c:\users\lenovo\documents\visual studio 2017\Projects\MVC_project\MVC_project\bin\System.Web.Optimization.dll
+c:\users\lenovo\documents\visual studio 2017\Projects\MVC_project\MVC_project\bin\System.Web.Razor.dll
+c:\users\lenovo\documents\visual studio 2017\Projects\MVC_project\MVC_project\bin\System.Web.WebPages.Deployment.dll
+c:\users\lenovo\documents\visual studio 2017\Projects\MVC_project\MVC_project\bin\System.Web.WebPages.dll
+c:\users\lenovo\documents\visual studio 2017\Projects\MVC_project\MVC_project\bin\System.Web.WebPages.Razor.dll
+c:\users\lenovo\documents\visual studio 2017\Projects\MVC_project\MVC_project\bin\WebGrease.dll
+c:\users\lenovo\documents\visual studio 2017\Projects\MVC_project\MVC_project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\lenovo\documents\visual studio 2017\Projects\MVC_project\MVC_project\bin\System.Web.Helpers.xml
+c:\users\lenovo\documents\visual studio 2017\Projects\MVC_project\MVC_project\bin\System.Web.Mvc.xml
+c:\users\lenovo\documents\visual studio 2017\Projects\MVC_project\MVC_project\bin\System.Web.Optimization.xml
+c:\users\lenovo\documents\visual studio 2017\Projects\MVC_project\MVC_project\bin\System.Web.Razor.xml
+c:\users\lenovo\documents\visual studio 2017\Projects\MVC_project\MVC_project\bin\System.Web.WebPages.xml
+c:\users\lenovo\documents\visual studio 2017\Projects\MVC_project\MVC_project\bin\System.Web.WebPages.Deployment.xml
+c:\users\lenovo\documents\visual studio 2017\Projects\MVC_project\MVC_project\bin\System.Web.WebPages.Razor.xml
+c:\users\lenovo\documents\visual studio 2017\Projects\MVC_project\MVC_project\bin\Antlr3.Runtime.pdb
+c:\users\lenovo\documents\visual studio 2017\Projects\MVC_project\MVC_project\bin\Newtonsoft.Json.xml
+c:\users\lenovo\documents\visual studio 2017\Projects\MVC_project\MVC_project\bin\EntityFramework.xml
+c:\users\lenovo\documents\visual studio 2017\Projects\MVC_project\MVC_project\bin\EntityFramework.SqlServer.xml
+c:\users\lenovo\documents\visual studio 2017\Projects\MVC_project\MVC_project\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\lenovo\documents\visual studio 2017\Projects\MVC_project\MVC_project\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\lenovo\documents\visual studio 2017\Projects\MVC_project\MVC_project\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\lenovo\documents\visual studio 2017\Projects\MVC_project\MVC_project\bin\Microsoft.Owin.xml
+c:\users\lenovo\documents\visual studio 2017\Projects\MVC_project\MVC_project\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\lenovo\documents\visual studio 2017\Projects\MVC_project\MVC_project\bin\Microsoft.Owin.Security.xml
+c:\users\lenovo\documents\visual studio 2017\Projects\MVC_project\MVC_project\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\lenovo\documents\visual studio 2017\Projects\MVC_project\MVC_project\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\lenovo\documents\visual studio 2017\Projects\MVC_project\MVC_project\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\lenovo\documents\visual studio 2017\Projects\MVC_project\MVC_project\bin\Microsoft.Owin.Security.Google.xml
+c:\users\lenovo\documents\visual studio 2017\Projects\MVC_project\MVC_project\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\lenovo\documents\visual studio 2017\Projects\MVC_project\MVC_project\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\lenovo\documents\visual studio 2017\Projects\MVC_project\MVC_project\bin\Microsoft.ApplicationInsights.xml
+c:\users\lenovo\documents\visual studio 2017\Projects\MVC_project\MVC_project\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\lenovo\documents\visual studio 2017\Projects\MVC_project\MVC_project\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\lenovo\documents\visual studio 2017\Projects\MVC_project\MVC_project\bin\Microsoft.AI.WindowsServer.xml
+c:\users\lenovo\documents\visual studio 2017\Projects\MVC_project\MVC_project\bin\Microsoft.AI.Web.xml
+c:\users\lenovo\documents\visual studio 2017\Projects\MVC_project\MVC_project\obj\Debug\MVC_project.dll
+c:\users\lenovo\documents\visual studio 2017\Projects\MVC_project\MVC_project\obj\Debug\MVC_project.pdb
+c:\users\lenovo\documents\visual studio 2017\Projects\MVC_project\MVC_project\obj\Debug\MVC_project.Migrations.v1.resources
+c:\users\lenovo\documents\visual studio 2017\Projects\MVC_project\MVC_project\obj\Debug\MVC_project.csproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2017\Projects\MVC_project\MVC_project\obj\Debug\MVC_project.Migrations.addmigrationv2.resources
+c:\users\lenovo\documents\visual studio 2017\Projects\MVC_project\MVC_project\obj\Debug\MVC_project.Migrations.v3.resources
+c:\users\lenovo\documents\visual studio 2017\Projects\MVC_project\MVC_project\obj\Debug\MVC_project.Migrations.v4.resources
+c:\users\lenovo\documents\visual studio 2017\Projects\MVC_project\MVC_project\obj\Debug\MVC_project.Migrations.v5.resources
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\MVC_project\MVC_project\obj\Debug\MVC_project.Migrations.v6.resources
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\MVC_project\MVC_project\obj\Debug\MVC_project.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\MVC_project\MVC_project\obj\Debug\MVC_project.Migrations.v7.resources
+E:\ITI COURSES\حقختثؤف ةرؤ\MVC_project\MVC_project\bin\ApplicationInsights.config
+E:\ITI COURSES\حقختثؤف ةرؤ\MVC_project\MVC_project\bin\roslyn\csc.exe
+E:\ITI COURSES\حقختثؤف ةرؤ\MVC_project\MVC_project\bin\roslyn\csc.exe.config
+E:\ITI COURSES\حقختثؤف ةرؤ\MVC_project\MVC_project\bin\roslyn\csc.rsp
+E:\ITI COURSES\حقختثؤف ةرؤ\MVC_project\MVC_project\bin\roslyn\csi.exe
+E:\ITI COURSES\حقختثؤف ةرؤ\MVC_project\MVC_project\bin\roslyn\csi.rsp
+E:\ITI COURSES\حقختثؤف ةرؤ\MVC_project\MVC_project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\ITI COURSES\حقختثؤف ةرؤ\MVC_project\MVC_project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\ITI COURSES\حقختثؤف ةرؤ\MVC_project\MVC_project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\ITI COURSES\حقختثؤف ةرؤ\MVC_project\MVC_project\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\ITI COURSES\حقختثؤف ةرؤ\MVC_project\MVC_project\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\ITI COURSES\حقختثؤف ةرؤ\MVC_project\MVC_project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\ITI COURSES\حقختثؤف ةرؤ\MVC_project\MVC_project\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\ITI COURSES\حقختثؤف ةرؤ\MVC_project\MVC_project\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\ITI COURSES\حقختثؤف ةرؤ\MVC_project\MVC_project\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\ITI COURSES\حقختثؤف ةرؤ\MVC_project\MVC_project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\ITI COURSES\حقختثؤف ةرؤ\MVC_project\MVC_project\bin\roslyn\System.AppContext.dll
+E:\ITI COURSES\حقختثؤف ةرؤ\MVC_project\MVC_project\bin\roslyn\System.Collections.Immutable.dll
+E:\ITI COURSES\حقختثؤف ةرؤ\MVC_project\MVC_project\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\ITI COURSES\حقختثؤف ةرؤ\MVC_project\MVC_project\bin\roslyn\System.IO.FileSystem.dll
+E:\ITI COURSES\حقختثؤف ةرؤ\MVC_project\MVC_project\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\ITI COURSES\حقختثؤف ةرؤ\MVC_project\MVC_project\bin\roslyn\System.Reflection.Metadata.dll
+E:\ITI COURSES\حقختثؤف ةرؤ\MVC_project\MVC_project\bin\roslyn\vbc.exe
+E:\ITI COURSES\حقختثؤف ةرؤ\MVC_project\MVC_project\bin\roslyn\vbc.exe.config
+E:\ITI COURSES\حقختثؤف ةرؤ\MVC_project\MVC_project\bin\roslyn\vbc.rsp
+E:\ITI COURSES\حقختثؤف ةرؤ\MVC_project\MVC_project\bin\roslyn\VBCSCompiler.exe
+E:\ITI COURSES\حقختثؤف ةرؤ\MVC_project\MVC_project\bin\roslyn\VBCSCompiler.exe.config
+E:\ITI COURSES\حقختثؤف ةرؤ\MVC_project\MVC_project\bin\MVC_project.dll.config
+E:\ITI COURSES\حقختثؤف ةرؤ\MVC_project\MVC_project\bin\MVC_project.dll
+E:\ITI COURSES\حقختثؤف ةرؤ\MVC_project\MVC_project\bin\MVC_project.pdb
+E:\ITI COURSES\حقختثؤف ةرؤ\MVC_project\MVC_project\bin\Antlr3.Runtime.dll
+E:\ITI COURSES\حقختثؤف ةرؤ\MVC_project\MVC_project\bin\EntityFramework.dll
+E:\ITI COURSES\حقختثؤف ةرؤ\MVC_project\MVC_project\bin\EntityFramework.SqlServer.dll
+E:\ITI COURSES\حقختثؤف ةرؤ\MVC_project\MVC_project\bin\Microsoft.AI.Agent.Intercept.dll
+E:\ITI COURSES\حقختثؤف ةرؤ\MVC_project\MVC_project\bin\Microsoft.AI.DependencyCollector.dll
+E:\ITI COURSES\حقختثؤف ةرؤ\MVC_project\MVC_project\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\ITI COURSES\حقختثؤف ةرؤ\MVC_project\MVC_project\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\ITI COURSES\حقختثؤف ةرؤ\MVC_project\MVC_project\bin\Microsoft.AI.Web.dll
+E:\ITI COURSES\حقختثؤف ةرؤ\MVC_project\MVC_project\bin\Microsoft.AI.WindowsServer.dll
+E:\ITI COURSES\حقختثؤف ةرؤ\MVC_project\MVC_project\bin\Microsoft.ApplicationInsights.dll
+E:\ITI COURSES\حقختثؤف ةرؤ\MVC_project\MVC_project\bin\Microsoft.AspNet.Identity.Core.dll
+E:\ITI COURSES\حقختثؤف ةرؤ\MVC_project\MVC_project\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\ITI COURSES\حقختثؤف ةرؤ\MVC_project\MVC_project\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\ITI COURSES\حقختثؤف ةرؤ\MVC_project\MVC_project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\ITI COURSES\حقختثؤف ةرؤ\MVC_project\MVC_project\bin\Microsoft.Owin.dll
+E:\ITI COURSES\حقختثؤف ةرؤ\MVC_project\MVC_project\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\ITI COURSES\حقختثؤف ةرؤ\MVC_project\MVC_project\bin\Microsoft.Owin.Security.Cookies.dll
+E:\ITI COURSES\حقختثؤف ةرؤ\MVC_project\MVC_project\bin\Microsoft.Owin.Security.dll
+E:\ITI COURSES\حقختثؤف ةرؤ\MVC_project\MVC_project\bin\Microsoft.Owin.Security.Facebook.dll
+E:\ITI COURSES\حقختثؤف ةرؤ\MVC_project\MVC_project\bin\Microsoft.Owin.Security.Google.dll
+E:\ITI COURSES\حقختثؤف ةرؤ\MVC_project\MVC_project\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\ITI COURSES\حقختثؤف ةرؤ\MVC_project\MVC_project\bin\Microsoft.Owin.Security.OAuth.dll
+E:\ITI COURSES\حقختثؤف ةرؤ\MVC_project\MVC_project\bin\Microsoft.Owin.Security.Twitter.dll
+E:\ITI COURSES\حقختثؤف ةرؤ\MVC_project\MVC_project\bin\Microsoft.Web.Infrastructure.dll
+E:\ITI COURSES\حقختثؤف ةرؤ\MVC_project\MVC_project\bin\Newtonsoft.Json.dll
+E:\ITI COURSES\حقختثؤف ةرؤ\MVC_project\MVC_project\bin\Owin.dll
+E:\ITI COURSES\حقختثؤف ةرؤ\MVC_project\MVC_project\bin\System.Web.Helpers.dll
+E:\ITI COURSES\حقختثؤف ةرؤ\MVC_project\MVC_project\bin\System.Web.Mvc.dll
+E:\ITI COURSES\حقختثؤف ةرؤ\MVC_project\MVC_project\bin\System.Web.Optimization.dll
+E:\ITI COURSES\حقختثؤف ةرؤ\MVC_project\MVC_project\bin\System.Web.Razor.dll
+E:\ITI COURSES\حقختثؤف ةرؤ\MVC_project\MVC_project\bin\System.Web.WebPages.Deployment.dll
+E:\ITI COURSES\حقختثؤف ةرؤ\MVC_project\MVC_project\bin\System.Web.WebPages.dll
+E:\ITI COURSES\حقختثؤف ةرؤ\MVC_project\MVC_project\bin\System.Web.WebPages.Razor.dll
+E:\ITI COURSES\حقختثؤف ةرؤ\MVC_project\MVC_project\bin\WebGrease.dll
+E:\ITI COURSES\حقختثؤف ةرؤ\MVC_project\MVC_project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\ITI COURSES\حقختثؤف ةرؤ\MVC_project\MVC_project\bin\System.Web.Helpers.xml
+E:\ITI COURSES\حقختثؤف ةرؤ\MVC_project\MVC_project\bin\System.Web.Mvc.xml
+E:\ITI COURSES\حقختثؤف ةرؤ\MVC_project\MVC_project\bin\System.Web.Optimization.xml
+E:\ITI COURSES\حقختثؤف ةرؤ\MVC_project\MVC_project\bin\System.Web.Razor.xml
+E:\ITI COURSES\حقختثؤف ةرؤ\MVC_project\MVC_project\bin\System.Web.WebPages.xml
+E:\ITI COURSES\حقختثؤف ةرؤ\MVC_project\MVC_project\bin\System.Web.WebPages.Deployment.xml
+E:\ITI COURSES\حقختثؤف ةرؤ\MVC_project\MVC_project\bin\System.Web.WebPages.Razor.xml
+E:\ITI COURSES\حقختثؤف ةرؤ\MVC_project\MVC_project\bin\Antlr3.Runtime.pdb
+E:\ITI COURSES\حقختثؤف ةرؤ\MVC_project\MVC_project\bin\Newtonsoft.Json.xml
+E:\ITI COURSES\حقختثؤف ةرؤ\MVC_project\MVC_project\bin\EntityFramework.xml
+E:\ITI COURSES\حقختثؤف ةرؤ\MVC_project\MVC_project\bin\EntityFramework.SqlServer.xml
+E:\ITI COURSES\حقختثؤف ةرؤ\MVC_project\MVC_project\bin\Microsoft.AspNet.Identity.Core.xml
+E:\ITI COURSES\حقختثؤف ةرؤ\MVC_project\MVC_project\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\ITI COURSES\حقختثؤف ةرؤ\MVC_project\MVC_project\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\ITI COURSES\حقختثؤف ةرؤ\MVC_project\MVC_project\bin\Microsoft.Owin.xml
+E:\ITI COURSES\حقختثؤف ةرؤ\MVC_project\MVC_project\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\ITI COURSES\حقختثؤف ةرؤ\MVC_project\MVC_project\bin\Microsoft.Owin.Security.xml
+E:\ITI COURSES\حقختثؤف ةرؤ\MVC_project\MVC_project\bin\Microsoft.Owin.Security.Facebook.xml
+E:\ITI COURSES\حقختثؤف ةرؤ\MVC_project\MVC_project\bin\Microsoft.Owin.Security.Cookies.xml
+E:\ITI COURSES\حقختثؤف ةرؤ\MVC_project\MVC_project\bin\Microsoft.Owin.Security.OAuth.xml
+E:\ITI COURSES\حقختثؤف ةرؤ\MVC_project\MVC_project\bin\Microsoft.Owin.Security.Google.xml
+E:\ITI COURSES\حقختثؤف ةرؤ\MVC_project\MVC_project\bin\Microsoft.Owin.Security.Twitter.xml
+E:\ITI COURSES\حقختثؤف ةرؤ\MVC_project\MVC_project\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\ITI COURSES\حقختثؤف ةرؤ\MVC_project\MVC_project\bin\Microsoft.ApplicationInsights.xml
+E:\ITI COURSES\حقختثؤف ةرؤ\MVC_project\MVC_project\bin\Microsoft.AI.DependencyCollector.xml
+E:\ITI COURSES\حقختثؤف ةرؤ\MVC_project\MVC_project\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\ITI COURSES\حقختثؤف ةرؤ\MVC_project\MVC_project\bin\Microsoft.AI.WindowsServer.xml
+E:\ITI COURSES\حقختثؤف ةرؤ\MVC_project\MVC_project\bin\Microsoft.AI.Web.xml
+E:\ITI COURSES\حقختثؤف ةرؤ\MVC_project\MVC_project\obj\Debug\MVC_project.csprojAssemblyReference.cache
+E:\ITI COURSES\حقختثؤف ةرؤ\MVC_project\MVC_project\obj\Debug\MVC_project.csproj.CopyComplete
+E:\ITI COURSES\حقختثؤف ةرؤ\MVC_project\MVC_project\obj\Debug\MVC_project.dll
+E:\ITI COURSES\حقختثؤف ةرؤ\MVC_project\MVC_project\obj\Debug\MVC_project.pdb
+E:\ITI COURSES\حقختثؤف ةرؤ\MVC_project\MVC_project\obj\Debug\MVC_project.Migrations.v1.resources
+E:\ITI COURSES\حقختثؤف ةرؤ\MVC_project\MVC_project\obj\Debug\MVC_project.csproj.GenerateResource.cache
+E:\ITI COURSES\حقختثؤف ةرؤ\MVC_project\MVC_project\obj\Debug\MVC_project.Migrations.permission.resources
+E:\ITI COURSES\حقختثؤف ةرؤ\MVC_project\MVC_project\obj\Debug\MVC_project.Migrations.a1.resources
+E:\ITI COURSES\حقختثؤف ةرؤ\MVC_project\MVC_project\obj\Debug\MVC_project.Migrations.new_permission.resources
+E:\MVC_project\MVC_project\bin\ApplicationInsights.config
+E:\MVC_project\MVC_project\bin\roslyn\csc.exe
+E:\MVC_project\MVC_project\bin\roslyn\csc.exe.config
+E:\MVC_project\MVC_project\bin\roslyn\csc.rsp
+E:\MVC_project\MVC_project\bin\roslyn\csi.exe
+E:\MVC_project\MVC_project\bin\roslyn\csi.rsp
+E:\MVC_project\MVC_project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\MVC_project\MVC_project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\MVC_project\MVC_project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\MVC_project\MVC_project\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\MVC_project\MVC_project\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\MVC_project\MVC_project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\MVC_project\MVC_project\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\MVC_project\MVC_project\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\MVC_project\MVC_project\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\MVC_project\MVC_project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\MVC_project\MVC_project\bin\roslyn\System.AppContext.dll
+E:\MVC_project\MVC_project\bin\roslyn\System.Collections.Immutable.dll
+E:\MVC_project\MVC_project\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\MVC_project\MVC_project\bin\roslyn\System.IO.FileSystem.dll
+E:\MVC_project\MVC_project\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\MVC_project\MVC_project\bin\roslyn\System.Reflection.Metadata.dll
+E:\MVC_project\MVC_project\bin\roslyn\vbc.exe
+E:\MVC_project\MVC_project\bin\roslyn\vbc.exe.config
+E:\MVC_project\MVC_project\bin\roslyn\vbc.rsp
+E:\MVC_project\MVC_project\bin\roslyn\VBCSCompiler.exe
+E:\MVC_project\MVC_project\bin\roslyn\VBCSCompiler.exe.config
+E:\MVC_project\MVC_project\bin\MVC_project.dll.config
+E:\MVC_project\MVC_project\bin\MVC_project.dll
+E:\MVC_project\MVC_project\bin\MVC_project.pdb
+E:\MVC_project\MVC_project\bin\Antlr3.Runtime.dll
+E:\MVC_project\MVC_project\bin\EntityFramework.dll
+E:\MVC_project\MVC_project\bin\EntityFramework.SqlServer.dll
+E:\MVC_project\MVC_project\bin\Microsoft.AI.Agent.Intercept.dll
+E:\MVC_project\MVC_project\bin\Microsoft.AI.DependencyCollector.dll
+E:\MVC_project\MVC_project\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\MVC_project\MVC_project\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\MVC_project\MVC_project\bin\Microsoft.AI.Web.dll
+E:\MVC_project\MVC_project\bin\Microsoft.AI.WindowsServer.dll
+E:\MVC_project\MVC_project\bin\Microsoft.ApplicationInsights.dll
+E:\MVC_project\MVC_project\bin\Microsoft.AspNet.Identity.Core.dll
+E:\MVC_project\MVC_project\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\MVC_project\MVC_project\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\MVC_project\MVC_project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\MVC_project\MVC_project\bin\Microsoft.Owin.dll
+E:\MVC_project\MVC_project\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\MVC_project\MVC_project\bin\Microsoft.Owin.Security.Cookies.dll
+E:\MVC_project\MVC_project\bin\Microsoft.Owin.Security.dll
+E:\MVC_project\MVC_project\bin\Microsoft.Owin.Security.Facebook.dll
+E:\MVC_project\MVC_project\bin\Microsoft.Owin.Security.Google.dll
+E:\MVC_project\MVC_project\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\MVC_project\MVC_project\bin\Microsoft.Owin.Security.OAuth.dll
+E:\MVC_project\MVC_project\bin\Microsoft.Owin.Security.Twitter.dll
+E:\MVC_project\MVC_project\bin\Microsoft.Web.Infrastructure.dll
+E:\MVC_project\MVC_project\bin\Newtonsoft.Json.dll
+E:\MVC_project\MVC_project\bin\Owin.dll
+E:\MVC_project\MVC_project\bin\System.Web.Helpers.dll
+E:\MVC_project\MVC_project\bin\System.Web.Mvc.dll
+E:\MVC_project\MVC_project\bin\System.Web.Optimization.dll
+E:\MVC_project\MVC_project\bin\System.Web.Razor.dll
+E:\MVC_project\MVC_project\bin\System.Web.WebPages.Deployment.dll
+E:\MVC_project\MVC_project\bin\System.Web.WebPages.dll
+E:\MVC_project\MVC_project\bin\System.Web.WebPages.Razor.dll
+E:\MVC_project\MVC_project\bin\WebGrease.dll
+E:\MVC_project\MVC_project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\MVC_project\MVC_project\bin\System.Web.Helpers.xml
+E:\MVC_project\MVC_project\bin\System.Web.Mvc.xml
+E:\MVC_project\MVC_project\bin\System.Web.Optimization.xml
+E:\MVC_project\MVC_project\bin\System.Web.Razor.xml
+E:\MVC_project\MVC_project\bin\System.Web.WebPages.xml
+E:\MVC_project\MVC_project\bin\System.Web.WebPages.Deployment.xml
+E:\MVC_project\MVC_project\bin\System.Web.WebPages.Razor.xml
+E:\MVC_project\MVC_project\bin\Antlr3.Runtime.pdb
+E:\MVC_project\MVC_project\bin\Newtonsoft.Json.xml
+E:\MVC_project\MVC_project\bin\EntityFramework.xml
+E:\MVC_project\MVC_project\bin\EntityFramework.SqlServer.xml
+E:\MVC_project\MVC_project\bin\Microsoft.AspNet.Identity.Core.xml
+E:\MVC_project\MVC_project\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\MVC_project\MVC_project\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\MVC_project\MVC_project\bin\Microsoft.Owin.xml
+E:\MVC_project\MVC_project\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\MVC_project\MVC_project\bin\Microsoft.Owin.Security.xml
+E:\MVC_project\MVC_project\bin\Microsoft.Owin.Security.Facebook.xml
+E:\MVC_project\MVC_project\bin\Microsoft.Owin.Security.Cookies.xml
+E:\MVC_project\MVC_project\bin\Microsoft.Owin.Security.OAuth.xml
+E:\MVC_project\MVC_project\bin\Microsoft.Owin.Security.Google.xml
+E:\MVC_project\MVC_project\bin\Microsoft.Owin.Security.Twitter.xml
+E:\MVC_project\MVC_project\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\MVC_project\MVC_project\bin\Microsoft.ApplicationInsights.xml
+E:\MVC_project\MVC_project\bin\Microsoft.AI.DependencyCollector.xml
+E:\MVC_project\MVC_project\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\MVC_project\MVC_project\bin\Microsoft.AI.WindowsServer.xml
+E:\MVC_project\MVC_project\bin\Microsoft.AI.Web.xml
+E:\MVC_project\MVC_project\obj\Debug\MVC_project.csprojAssemblyReference.cache
+E:\MVC_project\MVC_project\obj\Debug\MVC_project.csproj.CoreCompileInputs.cache
+E:\MVC_project\MVC_project\obj\Debug\MVC_project.csproj.CopyComplete
+E:\MVC_project\MVC_project\obj\Debug\MVC_project.dll
+E:\MVC_project\MVC_project\obj\Debug\MVC_project.pdb
+E:\MVC_project\MVC_project\obj\Debug\MVC_project.Migrations.a1.resources
+E:\MVC_project\MVC_project\obj\Debug\MVC_project.csproj.GenerateResource.cache
+C:\Users\C.M\Desktop\MVC_project\MVC_project\bin\ApplicationInsights.config
+C:\Users\C.M\Desktop\MVC_project\MVC_project\bin\roslyn\csc.exe
+C:\Users\C.M\Desktop\MVC_project\MVC_project\bin\roslyn\csc.exe.config
+C:\Users\C.M\Desktop\MVC_project\MVC_project\bin\roslyn\csc.rsp
+C:\Users\C.M\Desktop\MVC_project\MVC_project\bin\roslyn\csi.exe
+C:\Users\C.M\Desktop\MVC_project\MVC_project\bin\roslyn\csi.rsp
+C:\Users\C.M\Desktop\MVC_project\MVC_project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\C.M\Desktop\MVC_project\MVC_project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\C.M\Desktop\MVC_project\MVC_project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\C.M\Desktop\MVC_project\MVC_project\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\C.M\Desktop\MVC_project\MVC_project\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\C.M\Desktop\MVC_project\MVC_project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\C.M\Desktop\MVC_project\MVC_project\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\C.M\Desktop\MVC_project\MVC_project\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\C.M\Desktop\MVC_project\MVC_project\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\C.M\Desktop\MVC_project\MVC_project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\C.M\Desktop\MVC_project\MVC_project\bin\roslyn\System.AppContext.dll
+C:\Users\C.M\Desktop\MVC_project\MVC_project\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\C.M\Desktop\MVC_project\MVC_project\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\C.M\Desktop\MVC_project\MVC_project\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\C.M\Desktop\MVC_project\MVC_project\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\C.M\Desktop\MVC_project\MVC_project\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\C.M\Desktop\MVC_project\MVC_project\bin\roslyn\vbc.exe
+C:\Users\C.M\Desktop\MVC_project\MVC_project\bin\roslyn\vbc.exe.config
+C:\Users\C.M\Desktop\MVC_project\MVC_project\bin\roslyn\vbc.rsp
+C:\Users\C.M\Desktop\MVC_project\MVC_project\bin\roslyn\VBCSCompiler.exe
+C:\Users\C.M\Desktop\MVC_project\MVC_project\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\C.M\Desktop\MVC_project\MVC_project\bin\MVC_project.dll.config
+C:\Users\C.M\Desktop\MVC_project\MVC_project\bin\MVC_project.dll
+C:\Users\C.M\Desktop\MVC_project\MVC_project\bin\MVC_project.pdb
+C:\Users\C.M\Desktop\MVC_project\MVC_project\bin\Antlr3.Runtime.dll
+C:\Users\C.M\Desktop\MVC_project\MVC_project\bin\EntityFramework.dll
+C:\Users\C.M\Desktop\MVC_project\MVC_project\bin\EntityFramework.SqlServer.dll
+C:\Users\C.M\Desktop\MVC_project\MVC_project\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\C.M\Desktop\MVC_project\MVC_project\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\C.M\Desktop\MVC_project\MVC_project\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\C.M\Desktop\MVC_project\MVC_project\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\C.M\Desktop\MVC_project\MVC_project\bin\Microsoft.AI.Web.dll
+C:\Users\C.M\Desktop\MVC_project\MVC_project\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\C.M\Desktop\MVC_project\MVC_project\bin\Microsoft.ApplicationInsights.dll
+C:\Users\C.M\Desktop\MVC_project\MVC_project\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\C.M\Desktop\MVC_project\MVC_project\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\C.M\Desktop\MVC_project\MVC_project\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\C.M\Desktop\MVC_project\MVC_project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\C.M\Desktop\MVC_project\MVC_project\bin\Microsoft.Owin.dll
+C:\Users\C.M\Desktop\MVC_project\MVC_project\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\C.M\Desktop\MVC_project\MVC_project\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\C.M\Desktop\MVC_project\MVC_project\bin\Microsoft.Owin.Security.dll
+C:\Users\C.M\Desktop\MVC_project\MVC_project\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\C.M\Desktop\MVC_project\MVC_project\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\C.M\Desktop\MVC_project\MVC_project\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\C.M\Desktop\MVC_project\MVC_project\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\C.M\Desktop\MVC_project\MVC_project\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\C.M\Desktop\MVC_project\MVC_project\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\C.M\Desktop\MVC_project\MVC_project\bin\Newtonsoft.Json.dll
+C:\Users\C.M\Desktop\MVC_project\MVC_project\bin\Owin.dll
+C:\Users\C.M\Desktop\MVC_project\MVC_project\bin\System.Web.Helpers.dll
+C:\Users\C.M\Desktop\MVC_project\MVC_project\bin\System.Web.Mvc.dll
+C:\Users\C.M\Desktop\MVC_project\MVC_project\bin\System.Web.Optimization.dll
+C:\Users\C.M\Desktop\MVC_project\MVC_project\bin\System.Web.Razor.dll
+C:\Users\C.M\Desktop\MVC_project\MVC_project\bin\System.Web.WebPages.Deployment.dll
+C:\Users\C.M\Desktop\MVC_project\MVC_project\bin\System.Web.WebPages.dll
+C:\Users\C.M\Desktop\MVC_project\MVC_project\bin\System.Web.WebPages.Razor.dll
+C:\Users\C.M\Desktop\MVC_project\MVC_project\bin\WebGrease.dll
+C:\Users\C.M\Desktop\MVC_project\MVC_project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\C.M\Desktop\MVC_project\MVC_project\bin\System.Web.Helpers.xml
+C:\Users\C.M\Desktop\MVC_project\MVC_project\bin\System.Web.Mvc.xml
+C:\Users\C.M\Desktop\MVC_project\MVC_project\bin\System.Web.Optimization.xml
+C:\Users\C.M\Desktop\MVC_project\MVC_project\bin\System.Web.Razor.xml
+C:\Users\C.M\Desktop\MVC_project\MVC_project\bin\System.Web.WebPages.xml
+C:\Users\C.M\Desktop\MVC_project\MVC_project\bin\System.Web.WebPages.Deployment.xml
+C:\Users\C.M\Desktop\MVC_project\MVC_project\bin\System.Web.WebPages.Razor.xml
+C:\Users\C.M\Desktop\MVC_project\MVC_project\bin\Antlr3.Runtime.pdb
+C:\Users\C.M\Desktop\MVC_project\MVC_project\bin\Newtonsoft.Json.xml
+C:\Users\C.M\Desktop\MVC_project\MVC_project\bin\EntityFramework.xml
+C:\Users\C.M\Desktop\MVC_project\MVC_project\bin\EntityFramework.SqlServer.xml
+C:\Users\C.M\Desktop\MVC_project\MVC_project\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\C.M\Desktop\MVC_project\MVC_project\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\C.M\Desktop\MVC_project\MVC_project\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\C.M\Desktop\MVC_project\MVC_project\bin\Microsoft.Owin.xml
+C:\Users\C.M\Desktop\MVC_project\MVC_project\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\C.M\Desktop\MVC_project\MVC_project\bin\Microsoft.Owin.Security.xml
+C:\Users\C.M\Desktop\MVC_project\MVC_project\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\C.M\Desktop\MVC_project\MVC_project\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\C.M\Desktop\MVC_project\MVC_project\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\C.M\Desktop\MVC_project\MVC_project\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\C.M\Desktop\MVC_project\MVC_project\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\C.M\Desktop\MVC_project\MVC_project\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\C.M\Desktop\MVC_project\MVC_project\bin\Microsoft.ApplicationInsights.xml
+C:\Users\C.M\Desktop\MVC_project\MVC_project\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\C.M\Desktop\MVC_project\MVC_project\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\C.M\Desktop\MVC_project\MVC_project\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\C.M\Desktop\MVC_project\MVC_project\bin\Microsoft.AI.Web.xml
+C:\Users\C.M\Desktop\MVC_project\MVC_project\obj\Debug\MVC_project.csprojAssemblyReference.cache
+C:\Users\C.M\Desktop\MVC_project\MVC_project\obj\Debug\MVC_project.csproj.CoreCompileInputs.cache
+C:\Users\C.M\Desktop\MVC_project\MVC_project\obj\Debug\MVC_project.csproj.CopyComplete
+C:\Users\C.M\Desktop\MVC_project\MVC_project\obj\Debug\MVC_project.dll
+C:\Users\C.M\Desktop\MVC_project\MVC_project\obj\Debug\MVC_project.pdb
+C:\Users\C.M\Desktop\MVC_project\MVC_project\obj\Debug\MVC_project.Migrations.a1.resources
+C:\Users\C.M\Desktop\MVC_project\MVC_project\obj\Debug\MVC_project.csproj.GenerateResource.cache
+C:\Users\C.M\Desktop\MVC_project\MVC_project\obj\Debug\MVC_project.Migrations.a2.resources
+C:\Users\C.M\Desktop\MVC_project\MVC_project\obj\Debug\MVC_project.Migrations.a3.resources
+C:\Users\C.M\Desktop\MVC_project\MVC_project\obj\Debug\MVC_project.Migrations.a4.resources
+E:\ITI COURSES\حقختثؤف ةرؤ\سشفعقيشغ\MVC_project\MVC_project\bin\ApplicationInsights.config
+E:\ITI COURSES\حقختثؤف ةرؤ\سشفعقيشغ\MVC_project\MVC_project\bin\roslyn\csc.exe
+E:\ITI COURSES\حقختثؤف ةرؤ\سشفعقيشغ\MVC_project\MVC_project\bin\roslyn\csc.exe.config
+E:\ITI COURSES\حقختثؤف ةرؤ\سشفعقيشغ\MVC_project\MVC_project\bin\roslyn\csc.rsp
+E:\ITI COURSES\حقختثؤف ةرؤ\سشفعقيشغ\MVC_project\MVC_project\bin\roslyn\csi.exe
+E:\ITI COURSES\حقختثؤف ةرؤ\سشفعقيشغ\MVC_project\MVC_project\bin\roslyn\csi.rsp
+E:\ITI COURSES\حقختثؤف ةرؤ\سشفعقيشغ\MVC_project\MVC_project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\ITI COURSES\حقختثؤف ةرؤ\سشفعقيشغ\MVC_project\MVC_project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\ITI COURSES\حقختثؤف ةرؤ\سشفعقيشغ\MVC_project\MVC_project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\ITI COURSES\حقختثؤف ةرؤ\سشفعقيشغ\MVC_project\MVC_project\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\ITI COURSES\حقختثؤف ةرؤ\سشفعقيشغ\MVC_project\MVC_project\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\ITI COURSES\حقختثؤف ةرؤ\سشفعقيشغ\MVC_project\MVC_project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\ITI COURSES\حقختثؤف ةرؤ\سشفعقيشغ\MVC_project\MVC_project\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\ITI COURSES\حقختثؤف ةرؤ\سشفعقيشغ\MVC_project\MVC_project\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\ITI COURSES\حقختثؤف ةرؤ\سشفعقيشغ\MVC_project\MVC_project\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\ITI COURSES\حقختثؤف ةرؤ\سشفعقيشغ\MVC_project\MVC_project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\ITI COURSES\حقختثؤف ةرؤ\سشفعقيشغ\MVC_project\MVC_project\bin\roslyn\System.AppContext.dll
+E:\ITI COURSES\حقختثؤف ةرؤ\سشفعقيشغ\MVC_project\MVC_project\bin\roslyn\System.Collections.Immutable.dll
+E:\ITI COURSES\حقختثؤف ةرؤ\سشفعقيشغ\MVC_project\MVC_project\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\ITI COURSES\حقختثؤف ةرؤ\سشفعقيشغ\MVC_project\MVC_project\bin\roslyn\System.IO.FileSystem.dll
+E:\ITI COURSES\حقختثؤف ةرؤ\سشفعقيشغ\MVC_project\MVC_project\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\ITI COURSES\حقختثؤف ةرؤ\سشفعقيشغ\MVC_project\MVC_project\bin\roslyn\System.Reflection.Metadata.dll
+E:\ITI COURSES\حقختثؤف ةرؤ\سشفعقيشغ\MVC_project\MVC_project\bin\roslyn\vbc.exe
+E:\ITI COURSES\حقختثؤف ةرؤ\سشفعقيشغ\MVC_project\MVC_project\bin\roslyn\vbc.exe.config
+E:\ITI COURSES\حقختثؤف ةرؤ\سشفعقيشغ\MVC_project\MVC_project\bin\roslyn\vbc.rsp
+E:\ITI COURSES\حقختثؤف ةرؤ\سشفعقيشغ\MVC_project\MVC_project\bin\roslyn\VBCSCompiler.exe
+E:\ITI COURSES\حقختثؤف ةرؤ\سشفعقيشغ\MVC_project\MVC_project\bin\roslyn\VBCSCompiler.exe.config
+E:\ITI COURSES\حقختثؤف ةرؤ\سشفعقيشغ\MVC_project\MVC_project\bin\MVC_project.dll.config
+E:\ITI COURSES\حقختثؤف ةرؤ\سشفعقيشغ\MVC_project\MVC_project\bin\MVC_project.dll
+E:\ITI COURSES\حقختثؤف ةرؤ\سشفعقيشغ\MVC_project\MVC_project\bin\MVC_project.pdb
+E:\ITI COURSES\حقختثؤف ةرؤ\سشفعقيشغ\MVC_project\MVC_project\bin\Antlr3.Runtime.dll
+E:\ITI COURSES\حقختثؤف ةرؤ\سشفعقيشغ\MVC_project\MVC_project\bin\EntityFramework.dll
+E:\ITI COURSES\حقختثؤف ةرؤ\سشفعقيشغ\MVC_project\MVC_project\bin\EntityFramework.SqlServer.dll
+E:\ITI COURSES\حقختثؤف ةرؤ\سشفعقيشغ\MVC_project\MVC_project\bin\Microsoft.AI.Agent.Intercept.dll
+E:\ITI COURSES\حقختثؤف ةرؤ\سشفعقيشغ\MVC_project\MVC_project\bin\Microsoft.AI.DependencyCollector.dll
+E:\ITI COURSES\حقختثؤف ةرؤ\سشفعقيشغ\MVC_project\MVC_project\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\ITI COURSES\حقختثؤف ةرؤ\سشفعقيشغ\MVC_project\MVC_project\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\ITI COURSES\حقختثؤف ةرؤ\سشفعقيشغ\MVC_project\MVC_project\bin\Microsoft.AI.Web.dll
+E:\ITI COURSES\حقختثؤف ةرؤ\سشفعقيشغ\MVC_project\MVC_project\bin\Microsoft.AI.WindowsServer.dll
+E:\ITI COURSES\حقختثؤف ةرؤ\سشفعقيشغ\MVC_project\MVC_project\bin\Microsoft.ApplicationInsights.dll
+E:\ITI COURSES\حقختثؤف ةرؤ\سشفعقيشغ\MVC_project\MVC_project\bin\Microsoft.AspNet.Identity.Core.dll
+E:\ITI COURSES\حقختثؤف ةرؤ\سشفعقيشغ\MVC_project\MVC_project\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\ITI COURSES\حقختثؤف ةرؤ\سشفعقيشغ\MVC_project\MVC_project\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\ITI COURSES\حقختثؤف ةرؤ\سشفعقيشغ\MVC_project\MVC_project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\ITI COURSES\حقختثؤف ةرؤ\سشفعقيشغ\MVC_project\MVC_project\bin\Microsoft.Owin.dll
+E:\ITI COURSES\حقختثؤف ةرؤ\سشفعقيشغ\MVC_project\MVC_project\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\ITI COURSES\حقختثؤف ةرؤ\سشفعقيشغ\MVC_project\MVC_project\bin\Microsoft.Owin.Security.Cookies.dll
+E:\ITI COURSES\حقختثؤف ةرؤ\سشفعقيشغ\MVC_project\MVC_project\bin\Microsoft.Owin.Security.dll
+E:\ITI COURSES\حقختثؤف ةرؤ\سشفعقيشغ\MVC_project\MVC_project\bin\Microsoft.Owin.Security.Facebook.dll
+E:\ITI COURSES\حقختثؤف ةرؤ\سشفعقيشغ\MVC_project\MVC_project\bin\Microsoft.Owin.Security.Google.dll
+E:\ITI COURSES\حقختثؤف ةرؤ\سشفعقيشغ\MVC_project\MVC_project\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\ITI COURSES\حقختثؤف ةرؤ\سشفعقيشغ\MVC_project\MVC_project\bin\Microsoft.Owin.Security.OAuth.dll
+E:\ITI COURSES\حقختثؤف ةرؤ\سشفعقيشغ\MVC_project\MVC_project\bin\Microsoft.Owin.Security.Twitter.dll
+E:\ITI COURSES\حقختثؤف ةرؤ\سشفعقيشغ\MVC_project\MVC_project\bin\Microsoft.Web.Infrastructure.dll
+E:\ITI COURSES\حقختثؤف ةرؤ\سشفعقيشغ\MVC_project\MVC_project\bin\Newtonsoft.Json.dll
+E:\ITI COURSES\حقختثؤف ةرؤ\سشفعقيشغ\MVC_project\MVC_project\bin\Owin.dll
+E:\ITI COURSES\حقختثؤف ةرؤ\سشفعقيشغ\MVC_project\MVC_project\bin\System.Web.Helpers.dll
+E:\ITI COURSES\حقختثؤف ةرؤ\سشفعقيشغ\MVC_project\MVC_project\bin\System.Web.Mvc.dll
+E:\ITI COURSES\حقختثؤف ةرؤ\سشفعقيشغ\MVC_project\MVC_project\bin\System.Web.Optimization.dll
+E:\ITI COURSES\حقختثؤف ةرؤ\سشفعقيشغ\MVC_project\MVC_project\bin\System.Web.Razor.dll
+E:\ITI COURSES\حقختثؤف ةرؤ\سشفعقيشغ\MVC_project\MVC_project\bin\System.Web.WebPages.Deployment.dll
+E:\ITI COURSES\حقختثؤف ةرؤ\سشفعقيشغ\MVC_project\MVC_project\bin\System.Web.WebPages.dll
+E:\ITI COURSES\حقختثؤف ةرؤ\سشفعقيشغ\MVC_project\MVC_project\bin\System.Web.WebPages.Razor.dll
+E:\ITI COURSES\حقختثؤف ةرؤ\سشفعقيشغ\MVC_project\MVC_project\bin\WebGrease.dll
+E:\ITI COURSES\حقختثؤف ةرؤ\سشفعقيشغ\MVC_project\MVC_project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\ITI COURSES\حقختثؤف ةرؤ\سشفعقيشغ\MVC_project\MVC_project\bin\System.Web.Helpers.xml
+E:\ITI COURSES\حقختثؤف ةرؤ\سشفعقيشغ\MVC_project\MVC_project\bin\System.Web.Mvc.xml
+E:\ITI COURSES\حقختثؤف ةرؤ\سشفعقيشغ\MVC_project\MVC_project\bin\System.Web.Optimization.xml
+E:\ITI COURSES\حقختثؤف ةرؤ\سشفعقيشغ\MVC_project\MVC_project\bin\System.Web.Razor.xml
+E:\ITI COURSES\حقختثؤف ةرؤ\سشفعقيشغ\MVC_project\MVC_project\bin\System.Web.WebPages.xml
+E:\ITI COURSES\حقختثؤف ةرؤ\سشفعقيشغ\MVC_project\MVC_project\bin\System.Web.WebPages.Deployment.xml
+E:\ITI COURSES\حقختثؤف ةرؤ\سشفعقيشغ\MVC_project\MVC_project\bin\System.Web.WebPages.Razor.xml
+E:\ITI COURSES\حقختثؤف ةرؤ\سشفعقيشغ\MVC_project\MVC_project\bin\Antlr3.Runtime.pdb
+E:\ITI COURSES\حقختثؤف ةرؤ\سشفعقيشغ\MVC_project\MVC_project\bin\Newtonsoft.Json.xml
+E:\ITI COURSES\حقختثؤف ةرؤ\سشفعقيشغ\MVC_project\MVC_project\bin\EntityFramework.xml
+E:\ITI COURSES\حقختثؤف ةرؤ\سشفعقيشغ\MVC_project\MVC_project\bin\EntityFramework.SqlServer.xml
+E:\ITI COURSES\حقختثؤف ةرؤ\سشفعقيشغ\MVC_project\MVC_project\bin\Microsoft.AspNet.Identity.Core.xml
+E:\ITI COURSES\حقختثؤف ةرؤ\سشفعقيشغ\MVC_project\MVC_project\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\ITI COURSES\حقختثؤف ةرؤ\سشفعقيشغ\MVC_project\MVC_project\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\ITI COURSES\حقختثؤف ةرؤ\سشفعقيشغ\MVC_project\MVC_project\bin\Microsoft.Owin.xml
+E:\ITI COURSES\حقختثؤف ةرؤ\سشفعقيشغ\MVC_project\MVC_project\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\ITI COURSES\حقختثؤف ةرؤ\سشفعقيشغ\MVC_project\MVC_project\bin\Microsoft.Owin.Security.xml
+E:\ITI COURSES\حقختثؤف ةرؤ\سشفعقيشغ\MVC_project\MVC_project\bin\Microsoft.Owin.Security.Facebook.xml
+E:\ITI COURSES\حقختثؤف ةرؤ\سشفعقيشغ\MVC_project\MVC_project\bin\Microsoft.Owin.Security.Cookies.xml
+E:\ITI COURSES\حقختثؤف ةرؤ\سشفعقيشغ\MVC_project\MVC_project\bin\Microsoft.Owin.Security.OAuth.xml
+E:\ITI COURSES\حقختثؤف ةرؤ\سشفعقيشغ\MVC_project\MVC_project\bin\Microsoft.Owin.Security.Google.xml
+E:\ITI COURSES\حقختثؤف ةرؤ\سشفعقيشغ\MVC_project\MVC_project\bin\Microsoft.Owin.Security.Twitter.xml
+E:\ITI COURSES\حقختثؤف ةرؤ\سشفعقيشغ\MVC_project\MVC_project\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\ITI COURSES\حقختثؤف ةرؤ\سشفعقيشغ\MVC_project\MVC_project\bin\Microsoft.ApplicationInsights.xml
+E:\ITI COURSES\حقختثؤف ةرؤ\سشفعقيشغ\MVC_project\MVC_project\bin\Microsoft.AI.DependencyCollector.xml
+E:\ITI COURSES\حقختثؤف ةرؤ\سشفعقيشغ\MVC_project\MVC_project\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\ITI COURSES\حقختثؤف ةرؤ\سشفعقيشغ\MVC_project\MVC_project\bin\Microsoft.AI.WindowsServer.xml
+E:\ITI COURSES\حقختثؤف ةرؤ\سشفعقيشغ\MVC_project\MVC_project\bin\Microsoft.AI.Web.xml
+E:\ITI COURSES\حقختثؤف ةرؤ\سشفعقيشغ\MVC_project\MVC_project\obj\Debug\MVC_project.csprojAssemblyReference.cache
+E:\ITI COURSES\حقختثؤف ةرؤ\سشفعقيشغ\MVC_project\MVC_project\obj\Debug\MVC_project.csproj.CopyComplete
+E:\ITI COURSES\حقختثؤف ةرؤ\سشفعقيشغ\MVC_project\MVC_project\obj\Debug\MVC_project.dll
+E:\ITI COURSES\حقختثؤف ةرؤ\سشفعقيشغ\MVC_project\MVC_project\obj\Debug\MVC_project.pdb
+E:\ITI COURSES\حقختثؤف ةرؤ\سشفعقيشغ\MVC_project\MVC_project\obj\Debug\MVC_project.Migrations.a1.resources
+E:\ITI COURSES\حقختثؤف ةرؤ\سشفعقيشغ\MVC_project\MVC_project\obj\Debug\MVC_project.csproj.GenerateResource.cache
+E:\ITI COURSES\حقختثؤف ةرؤ\سشفعقيشغ\MVC_project\MVC_project\obj\Debug\MVC_project.Migrations.a2.resources
+E:\ITI COURSES\حقختثؤف ةرؤ\سشفعقيشغ\MVC_project\MVC_project\obj\Debug\MVC_project.csproj.CoreCompileInputs.cache
